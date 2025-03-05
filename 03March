@@ -1,0 +1,7 @@
+Topics studied today:
+1. More on kubernetes
+2. what is minikube and setting it on local machine
+3. Basic kunbectl commands - creating deployments, getting logs, get pods , replicaset
+4. kubernetes Yaml configuration files
+5. parts of configuration files
+6. creating a monfiguration file of deployments and service for ngnix
