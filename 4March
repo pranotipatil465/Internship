@@ -1,0 +1,8 @@
+Topics studied today:
+1. connecting componects of deployment and service using spec in configuration file
+2. setting mongo and mongo express pods in kubernetes and acessing them on our system using load balancer
+3. configuration of ports in services
+4. Namespaces and types
+5 .ingress
+6. helm
+7. Kubernetes persistent volume, persistent volume claim and storage class
