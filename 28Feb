@@ -1,0 +1,23 @@
+Topics studied today:
+1. Starting with kubernetes
+2. installing kubernetes vvia docker
+
+3. Understanding concepts of:
+    1. pod
+    2. Deployment
+    3. service
+    4. replicaset
+    5. configmap
+    6. statefulset
+
+4. More on kubernetes architecture:
+    1. node/worker process
+    2. kubectl
+    3. kubeproxcy
+    4. container runtime
+    5. Master node
+        1. api server
+        2. scheduler
+        3. controller manager
+        4. etcd
+s

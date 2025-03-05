@@ -1,0 +1,5 @@
+Topics studied today
+1. Docker compose 
+2. Creating a docker compose file for mongo amd mongo express to run them 
+3. Concepts of dockerfile
+4. creating a dockerfile for an node.js app and adding it to a docker compose with mongo-db and mongo-express

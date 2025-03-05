@@ -1,0 +1,6 @@
+Topics studied today
+1. Docker image layers
+2. port binding and hands on
+3. Virtual Machine vs Docker
+4. docker network , creating a network 
+5. cretaing and running mongo and mongo-express in same network so they can connect
