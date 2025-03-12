@@ -1,0 +1,6 @@
+Kubernetes assignment work:
+1. creating deployments and services in templates of helm chart
+2. testing whether the frontend and backend are running properly in Kubernetes by port forwarding 
+3. creating a pv and pvc for the backend data to be persistent even if the pod dies and is recreated
+4. creating ingress to route the exeternal traffic into your cluster and accesing it without using ip:port but using a name
+5. installing ingress-nginx as the inbuilt ingress-controller traefik doesnt route traffic properly

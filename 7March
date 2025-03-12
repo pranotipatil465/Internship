@@ -1,0 +1,8 @@
+Kubernetes assignment work:
+1. created a docker file for each frontend and backend
+2. created a dockerhub public repo and pushed both the docker files in the repo . So that later we can pull them to create pods in kubernetes cluster.
+3. Create a k3d cluster where we can set up our node
+4. installed helm and creating a helm chart
+5. making sure helm is running on K3d only
+6. edditing the vaalues.yaml chart in helm such that it is able to pull the docker images from docker hub
+

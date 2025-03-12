@@ -1,0 +1,9 @@
+kubernetes work assignment:
+1. attching a self signed certificate so as to make traffic availabe on https as well.
+2. checking the running of application
+
+
+
+brushed certain aws topics
+1. SNS
+2. SQS

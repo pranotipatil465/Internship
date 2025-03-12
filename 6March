@@ -1,0 +1,14 @@
+Started with Kubernetes assignment:
+
+Assignment:
+    1. Install K3S Cluster on your laptop.
+    2.Develop a simple to-do application capable of taking to-do notes and displaying the saved notes.
+    3.Develop a simple UI which displays these two options - Take Notes & Display Existing Notes
+    4.The application should be able to store the results in a PV when Take Notes button is hit and fetch results from the PV when Display Existing Notes button is hit.
+    5.Dockerize the code onto an image and deploy it in the K3S cluster using Helm chart.
+    Create an internal domain (not a public one) and make the application accessible using the internal domain only within your laptop.
+        a).Add a self-signed certificate to make the traffic available in HTTPS.
+
+Work completed today:
+1.Install K3S Cluster on your laptop via k3d
+2.Developed a frontend and backend via using react and node.js for  Taking Notes & Display Existing Notes
