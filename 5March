@@ -1,0 +1,6 @@
+More into Kubernetes
+1. details about services
+2. Ingress in details
+3. Handling traffic in Ingress
+4. adding https to our ingress
+5. Kubernetes stateful set and stateful-app
